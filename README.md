@@ -3,4 +3,4 @@
  
  As classes representaram as tabelas do banco de dados relacional dentro da aplicação.
 
- <img src="scheme.jpg">
+ <img src="schema.jpg">
